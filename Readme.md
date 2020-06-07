@@ -12,10 +12,7 @@ UniteSpice受講者のgit練習用リポジトリです。
 - git pull : リモートリポジトリの変更点を取り込みます。
 - git log :コミットログを確認します。
 - git branch : ローカルのブランチ、今自分がいるブランチを確認します。branch branch_nameとすることで新しくブランチを作成できます。
-
-## TIPS
-- 毎回コマンドを打つのは大変なので、省略形をalias登録しておくと大変楽ちんです。
-- git status = git stなど
+- git init : 直下のファイルを管理下におきます。
 
 ## 最初の流れ
 1. このブランチをcloneします。
@@ -25,3 +22,12 @@ UniteSpice受講者のgit練習用リポジトリです。
 5. pushします。
 6. ついでにPull Requestも出します。
 7. (他の人の変更が取り込まれたらpullして確認してみましょう)
+
+## TIPS
+- 毎回コマンドを打つのは大変なので、省略形をalias登録しておくと大変楽ちんです。
+- git status = git stなど
+
+
+## その他
+- [このサイト](https://backlog.com/ja/git-tutorial/)は入門にとても良いです
+- gitが怖くて触れない場合は[こちら](https://learngitbranching.js.org/?locale=ja)で練習してみましょう
