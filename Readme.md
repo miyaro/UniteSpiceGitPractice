@@ -28,7 +28,8 @@
 - git status = git stなど
 
 
+
 ## その他
 - [このサイト](https://backlog.com/ja/git-tutorial/)は入門にとても良いです
 - gitが怖くて触れない場合は[こちら](https://learngitbranching.js.org/?locale=ja)で練習してみましょう
--[このサイトも](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)役立ちました
+-[このサイト](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)も役立った気がします
