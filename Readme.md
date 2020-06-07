@@ -14,5 +14,5 @@ UniteSpice受講者のgit練習用リポジトリです。
 - git branch : ローカルのブランチ、今自分がいるブランチを確認します。branch branch_nameとすることで新しくブランチを作成できます。
 
 ##TIPS
-毎回コマンドを打つのは大変なので、省略形をalias登録しておくと大変楽ちんです。
-git status = git stなど
+- 毎回コマンドを打つのは大変なので、省略形をalias登録しておくと大変楽ちんです。
+- git status = git stなど
